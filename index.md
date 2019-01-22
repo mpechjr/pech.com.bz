@@ -7,7 +7,7 @@ Web Application Development, Database Administration, Project Management, User o
 
 
 ### EXPERIENCE
-**Marketing Specialist, Taipei** - EEC Extech Electronics Co. 	
+**EEC Extech Electronics Co.** -  Marketing Specialist, Taipei
 *Jul 2017 - October 2018*
 	
 Conceptualize and design a user friendly and intuitive web experience for websites, microsites, landing pages, newsletters, and establish a digital image for the company across Asia.
@@ -21,6 +21,9 @@ Conceptualize and design a user friendly and intuitive web experience for websit
 *September 2015 - June 2018*
 
 * Web and Software development freelancing.
+    * deinballkleid.de custom plugin development
+    * heiden-associates.com custom plugin development
+    * altournativebelizeservices.com web development
 * Design and User experience consulting
 * Released a new product in 2016.
     * Mustard (Mustard is a social platform that helps groups coordinate events, by event-driven location tracking.)
