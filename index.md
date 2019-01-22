@@ -1,14 +1,61 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+## PROFESSIONAL PORTFOLIO
+`Web Development | Graphic Design | Photography | World Traveler`
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### SPECIALTIES
+Web Application Development, Database Administration, Project Management, User online interaction, Web Design and enhancing user experience.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### EXPERIENCE
+**Marketing Specialist, Taipei** - EEC Extech Electronics Co. 	
+*Jul 2017 - October 2018*
+	
+Conceptualize and design a user friendly and intuitive web experience for websites, microsites, landing pages, newsletters, and establish a digital image for the company across Asia.
+
+* Established and executed digital brand campaigns and promotions on Linkedin, Facebook and Twitter.
+* Developed a customer journey using automation tools for customers that sign up to newsletters via website.
+* Provided SEO analysis and recommendations for elements and structure of websites and SEO goals across different regions
+* Automated lead generation into Sales Force in order to create a more streamlined customer experience. 
+
+**Bella Digital Design,  Taipei** - Founder. 	
+*September 2015 - June 2018*
+
+* Web and Software development freelancing.
+* Design and User experience consulting
+* Released a new product in 2016.
+    * Mustard (Mustard is a social platform that helps groups coordinate events, by event-driven location tracking.)
+    * mustardapp.io
+    * [More information](https://www.facebook.com/mustardapp.io/)
+
+**Mobilegeeks,  Taipei** - Full Stack Developer
+*September 2014 - June 2017*
+
+* Mobilegeeks is a leading online publisher of technology content.
+* Manage mobilegeeks.de and mobilegeeks.com websites. 
+
+**WINZZ, Taipei** - Software Developer
+*August 2012 - August 2014*
+* Development of major websites for product launches including payment integration
+* Developed API for communication protocol of IOS devices with server resources
+* Design and developed architecture for device to device communication using XMPP that leverages the extensibility of XML. 
+* Management and design of database running on AWS
+
+**University Management Ltd., Belize** - Software Developer
+*June 2006 -August 2010*
+* Building and updating websites in various platforms.
+* Participated in the development of several personalized web based software using PHP and MySQL. These including inventory and data management system and an IP Telephony based front end for CISCO call managers.
+* User interface development, requirements gathering and non-technical presentations to clients
+* Offered support and maintenance for these applications.
+
+**Internetworks Ltd., Belize** - Field Consultant
+*June 2008 -August 2010*
+* Received multiple training sessions with CISCO based products.
+* Assisted part time in network implementations of Cisco SMB products.
+* Installation of network infrastructure and 
+* Customer Help-desk and Onsite maintenance and troubleshooting
+
+
+### Contact and other pages
+Check out my [LinkedIn Profile](https://www.linkedin.com/in/melanio-pech-502ba042/) for more information and contact information.
+
+[500px Profile](https://500px.com/melaniopechjr)
