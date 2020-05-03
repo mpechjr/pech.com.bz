@@ -7,6 +7,23 @@ Web Application Development, Database Administration, Project Management, User o
 
 
 ### EXPERIENCE
+
+**Bella Digital Design and Development Studio** -  Co-Founder && Full Stack Web Developer
+
+*May 2019 – Present* 
+
+Bella Digital is customer centric business that focuses on expanding and enhancing customer's digital footprint.
+
+* Web and Software development freelancing & Design and User experience consulting
+* Drupal projects for CERN: RADSAGA | STREAM
+* Custom plugin development in Wordpress 
+
+### Projects:
+
+[Bella Digital](https://www.belladigital.net/en/)
+
+[Paciente+](https://www.pacienteplus.net/)
+
 **EEC Extech Electronics Co.** -  Marketing Specialist, Taipei
 *Jul 2017 - October 2018*
 	
@@ -62,3 +79,6 @@ Conceptualize and design a user friendly and intuitive web experience for websit
 Check out my [LinkedIn Profile](https://www.linkedin.com/in/melanio-pech-502ba042/) for more information and contact information.
 
 [500px Profile](https://500px.com/melaniopechjr)
+
+
+[Personal Photo Blog](https://melaniopech.com)
